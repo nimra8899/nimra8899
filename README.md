@@ -7,8 +7,8 @@
            - 👩‍💻 I love building responsive and scalable web applications**<br>
     
   <h3>📫 How to reach me </h3><br>
-            - LinkedIn:https://www.linkedin.com/in/nimra-jabbar-/ <br>
-            - Email:khannimrajabbar@gmail.com**
+            - <h3>LinkedIn</h3>:https://www.linkedin.com/in/nimra-jabbar-/ <br>
+            - <h3>Email </h3>:khannimrajabbar@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
