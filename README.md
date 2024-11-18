@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nimra</h1>
 <h3 >🚀 **Frontend Developer** | 🌐 **Web Enthusiast** ---</h3>
 
-- 💬 About me **
-- 🌟 Final-year Computer Science Student -
-- 🌱 Currently learning **React.js** and *Redux* -
-- 👩‍💻 I love building responsive and scalable web applications**
-
-- 📫 How to reach me
-- LinkedIn:https://www.linkedin.com/in/nimra-jabbar-/
-- Email:khannimrajabbar@gmail.com**
+ 💬 About me **
+     - 🌟 Final-year Computer Science Student -
+    - 🌱 Currently learning **React.js** and *Redux* -
+    - 👩‍💻 I love building responsive and scalable web applications**
+    
+ 📫 How to reach me
+      - LinkedIn:https://www.linkedin.com/in/nimra-jabbar-/
+      - Email:khannimrajabbar@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
