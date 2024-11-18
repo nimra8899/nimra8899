@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Nimra 👋
 
-<!--
-**nimra8899/nimra8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer** | 🌐 **Web Enthusiast** 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+### 🛠 About Me
+🌟 Final-year Computer Science Student
+- 🌱 Currently learning **React.js** and  *Redux*
+  - - 👩‍💻 I love building responsive and scalable web applications
+
+### 🔧 Skills & Tools
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks**: React.js, Bootstrap, Tailwind CSS
+- **Databases**: MySQL
+- **Tools**: Git, VS Code, Figma,Adobe Illustrator
+- **Other**: XAMPP, WAMP
+
+### 💬 Let's Connect! 
+- 💼 [LinkedIn]https://www.linkedin.com/in/nimra-jabbar-
+- 📫 Email:khannimrajabbar@gmail.com
+
 - ⚡ Fun fact: ...
--->
+- ✨ *“Strive for progress, not perfection.”*
