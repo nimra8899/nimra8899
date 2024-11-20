@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nimra</h1>
 <h3 >🚀 **Frontend Developer** | 🌐 **Web Enthusiast** ---</h3>
-<img   align="right"  width="300"  src="https://media.tenor.com/Zx_SYTfPMmkAAAAM/angry-mad.gif"> 
+<img   align="right"  width="300"  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e"> 
 <h3> 💬 About me **</h3><br>
            - 🌟 Final-year Computer Science Student -<br>
            - 🌱 Currently learning **React.js** and *Redux* -<br>
