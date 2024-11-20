@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nimra</h1>
 <h3 >🚀 **Frontend Developer** | 🌐 **Web Enthusiast** ---</h3>
-<img   align="right"  width="300"  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e"> 
+<img   align="right"  width="300"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/af7538fb-59ad-4e00-8e37-105cd58c29ca/d7kyd0a-89e892c9-488c-4f98-80f8-bed63e8d3f31.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FmNzUzOGZiLTU5YWQtNGUwMC04ZTM3LTEwNWNkNThjMjljYVwvZDdreWQwYS04OWU4OTJjOS00ODhjLTRmOTgtODBmOC1iZWQ2M2U4ZDNmMzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RS4ZwILx6hKStk5StBUQQ5TDM3qxlAgoXquIW84kPOU"> 
 <h3> 💬 About me **</h3><br>
            - 🌟 Final-year Computer Science Student -<br>
            - 🌱 Currently learning **React.js** and *Redux* -<br>
