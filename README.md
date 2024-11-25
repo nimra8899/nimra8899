@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nimra</h1>
 <h3 >🚀 **Frontend Developer** | 🌐 **Web Enthusiast** ---</h3>
-<img   align="right"  width="300"  src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
+<img   align="right"  width="500"  src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
 <h3> 💬 About me **</h3><br>
            - 🌟 Final-year Computer Science Student -<br>
            - 🌱 Currently learning **React.js** and *Redux* -<br>
