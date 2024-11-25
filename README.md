@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nimra</h1>
 <h3 >🚀 **Frontend Developer** | 🌐 **Web Enthusiast** ---</h3>
-<img   align="right"  width="300"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/af7538fb-59ad-4e00-8e37-105cd58c29ca/d7kyd0a-89e892c9-488c-4f98-80f8-bed63e8d3f31.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FmNzUzOGZiLTU5YWQtNGUwMC04ZTM3LTEwNWNkNThjMjljYVwvZDdreWQwYS04OWU4OTJjOS00ODhjLTRmOTgtODBmOC1iZWQ2M2U4ZDNmMzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RS4ZwILx6hKStk5StBUQQ5TDM3qxlAgoXquIW84kPOU"> 
+<img   align="right"  width="300"  src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
 <h3> 💬 About me **</h3><br>
            - 🌟 Final-year Computer Science Student -<br>
            - 🌱 Currently learning **React.js** and *Redux* -<br>
