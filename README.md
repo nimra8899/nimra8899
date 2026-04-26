@@ -2,7 +2,7 @@
 <h3 align="center">MS Data Science Student | AI/ML Enthusiast | Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
 </p>
 
 ---
@@ -42,4 +42,4 @@ Git • GitHub • Vercel • Figma • Canva
 
 ---
 
-🌷 *"Soft aesthetics, strong logic."*
+⭐ *“Building intelligent systems that solve real-world problems.”*
