@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nimra</h1>
 <h3 align="center">MS Data Science Student | AI/ML Enthusiast | Frontend Developer</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
 ---
 
 ## 🌟 About Me
@@ -68,15 +72,6 @@
 - 💼 LinkedIn: https://linkedin.com/in/nimra-jabbar  
 - 💻 GitHub: https://github.com/nimra8899  
 - 📧 Email: khannimrajabbar@gmail.com  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimra8899&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimra8899&theme=tokyonight" />
-</p>
 
 ---
 
