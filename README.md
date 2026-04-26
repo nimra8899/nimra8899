@@ -2,7 +2,7 @@
 <h3 align="center">MS Data Science Student | AI/ML Enthusiast | Frontend Developer</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5dWZkN3Z3b3B5Z3Z6d2VqZ2VnM3FqZ2VjY2J3ZzNqZzZ6aGZ3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320"/>
 </p>
 
 ---
