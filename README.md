@@ -57,7 +57,7 @@ Git • GitHub • Vercel • Figma • Canva • LaTeX
 ---
 
 ## 💌 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/nimra-jabbar  
+- 💼 LinkedIn:https://www.linkedin.com/in/nimra-jabbar-/ 
 - 💻 GitHub: https://github.com/nimra8899  
 - 📧 Email: khannimrajabbar@gmail.com  
 
