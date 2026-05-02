@@ -9,10 +9,12 @@
 
 ## 🌸 About Me
 - 🎓 MS Data Science @ NUST  
-- 🤖 Passionate about **Machine Learning & Deep Learning**  
-- 💻 React.js + Tailwind CSS Developer  
-- ✨ Love building clean UI + intelligent systems  
-- 📊 Exploring **LLMs & Prompt Engineering**  
+- 🎓 BS Computer Science (CGPA: 3.64)  
+- 🤖 Passionate about **Machine Learning, Deep Learning & AI Systems**  
+- 💻 Frontend Developer (React.js + Tailwind CSS)  
+- ✨ Love building **clean UI + intelligent systems**  
+- 📊 Exploring **LLMs, Prompt Engineering & Model Evaluation**  
+- 🚀 Interested in solving real-world problems using AI  
 
 ---
 
@@ -23,15 +25,48 @@ Python | JavaScript | C
 
 ### 🤖 AI/ML
 Machine Learning • Deep Learning • Neural Networks • Backpropagation  
+MLP (Multi-Layer Perceptron) • Scikit-learn • PyTorch  
+LLM Basics • Prompt Engineering  
 
-### 📊 Data
+### 📊 Data & Visualization
 Pandas • NumPy • Matplotlib  
 
-### 🌐 Web
+### 🌐 Web Development
 React.js • HTML • CSS • Tailwind CSS • REST APIs  
 
-### ⚙️ Tools
-Git • GitHub • Vercel • Figma • Canva  
+### 🖥️ GUI & Tools
+Tkinter • Streamlit (GUI Apps)  
+GeoTIFF Handling • Mouse Event Binding  
+
+### 🗄️ Databases
+MySQL • NoSQL  
+
+### ⚙️ Tools & Platforms
+Git • GitHub • Vercel • Figma • Canva • LaTeX  
+
+---
+
+## 🚀 Projects Highlights
+- 🧠 **Neural Network with Backpropagation**  
+  Built a multi-layer neural network using PyTorch with forward/backward propagation and loss optimization.
+
+- 🔢 **MLP Digits Classification (SGD vs Adam)**  
+  Compared optimizers using Scikit-learn, analyzed convergence, and visualized results.
+
+- 🌍 **GeoTIFF Interactive Tool**  
+  Developed a Tkinter-based application with **mouse binding, pan functionality, and geo-coordinate mapping**.
+
+- 💼 **Portfolio Website**  
+  Responsive React + Tailwind website deployed on Vercel.
+
+---
+
+## 💼 Experience
+**Frontend Developer Intern – Devlogix**  
+- Built responsive UI components using React.js & Tailwind CSS  
+- Integrated REST APIs and handled dynamic data  
+- Converted Figma designs into pixel-perfect interfaces  
+- Collaborated with cross-functional teams  
 
 ---
 
