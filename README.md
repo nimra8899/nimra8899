@@ -45,22 +45,6 @@ MySQL • NoSQL
 Git • GitHub • Vercel • Figma • Canva • LaTeX  
 
 ---
-
-## 🚀 Projects Highlights
-- 🧠 **Neural Network with Backpropagation**  
-  Built a multi-layer neural network using PyTorch with forward/backward propagation and loss optimization.
-
-- 🔢 **MLP Digits Classification (SGD vs Adam)**  
-  Compared optimizers using Scikit-learn, analyzed convergence, and visualized results.
-
-- 🌍 **GeoTIFF Interactive Tool**  
-  Developed a Tkinter-based application with **mouse binding, pan functionality, and geo-coordinate mapping**.
-
-- 💼 **Portfolio Website**  
-  Responsive React + Tailwind website deployed on Vercel.
-
----
-
 ## 💼 Experience
 **Frontend Developer Intern – Devlogix**  
 - Built responsive UI components using React.js & Tailwind CSS  
