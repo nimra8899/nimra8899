@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimra</h1>
-<h3 align="center">MS Data Science Student | AI/ML Enthusiast | Frontend Developer</h3>
+<h3 align="center">
+MS Data Science Student | Machine Learning & Deep Learning (Hands-on Projects) | Python Developer | Frontend Developer
+</h3>
 
 <p align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320"/>
