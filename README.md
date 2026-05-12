@@ -11,7 +11,7 @@ MS Data Science Student | Machine Learning & Deep Learning (Hands-on Projects) |
 
 ## 🌸 About Me
 - 🎓 MS Data Science @ NUST  
-- 🎓 BS Computer Science (CGPA: 3.64)  
+- 🎓 BS Computer Science 
 - 🤖 Passionate about **Machine Learning, Deep Learning & AI Systems**  
 - 💻 Frontend Developer (React.js + Tailwind CSS)  
 - ✨ Love building **clean UI + intelligent systems**  
